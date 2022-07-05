@@ -1,7 +1,7 @@
 # repo1
 
 $$
-\[ \sum_{n=1}^{\infty} 2^{-n} = 1 \]
+\sum_{n=1}^{\infty} 2^{-n} = 1
 $$
 <div>
 <table border="1" class="dataframe">
