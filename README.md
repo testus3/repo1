@@ -23,6 +23,12 @@ $$
       			<td>$\text{Variance-x}$</td>
 			<td>$S^2_{x}  = S_{xx}= \frac{1}{N}\sum_{i=1}^{N}{(x_i - \bar{x})^2}$</td>
 		</tr>
+		<tr>
+			<td>3</td>
+			<td>2</td>
+			<td>1</td>
+			<td>\sum_{n=1}^{\infty} 2^{-n} = 1</td>
+		</tr>
   	</tbody>
 </table>
 </div>
