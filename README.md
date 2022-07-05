@@ -46,7 +46,7 @@ $$
 			<td>$\begin{align} \text{Coefficient of}\\ \text{determination} \end{align}$</td>
 			<td>$\begin{align} R^2 = r^2_{xy} \end{align}$</td>
 			<td>$\begin{align} \text{Correlation} \end{align}$</td>
-			<td>$\begin{align} \begin{align}{ll} R^2 = r^2_{xy}\approx 1: \text{very good fit} \\ R^2 = r^2_{xy}\approx 0: \text{poor fit} \end{align}$</td>
+			<td>$\begin{align} R^2 = r^2_{xy}\approx 1: \text{very good fit} \\ R^2 = r^2_{xy}\approx 0: \text{poor fit} \end{align}$</td>
 		</tr>
   	</tbody>
 </table>
