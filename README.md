@@ -27,7 +27,7 @@ $$
 			<td>3</td>
 			<td>2</td>
 			<td>1</td>
-			<td>\sum_{n=1}^{\infty} 2^{-n} = 1</td>
+			<td>$\sum_{n=1}^{\infty} 2^{-n} = 1$</td>
 		</tr>
   	</tbody>
 </table>
