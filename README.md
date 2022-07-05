@@ -31,19 +31,19 @@ $$
 			<td>$\begin{align} \beta_0 = \bar{y}-\beta_1\bar{x} \end{align}$</td>
 		</tr>
 		<tr>
-			<td>$\centering{\begin{align} \text{Residual sum} \\ \text{of squares} \end{align}}$</td>
+			<td>$\begin{align} &\text{Residual sum} \\ &\text{of squares} \end{align}$</td>
 			<td>$\begin{align} RSS_{(\beta_0,\beta_1)} :=\sum^n_{i=1}{(y_i-\hat{y}_i)^2} \end{align}$</td>
 			<td>$\begin{align} \text{Predicted} \\ \text{values} \end{align}$</td>
 			<td>$\begin{align} \hat{y}_i = \beta_1x_i + \beta_0 \end{align}$</td>
 		</tr>
 		<tr>
-			<td>$\begin{align} \text{Sample correlation} \\ \text{coefficient}  \end{align}$</td>
+			<td>$\begin{align} &\text{Sample correlation} \\ &\text{coefficient}  \end{align}$</td>
 			<td>$\begin{align} r_{xy} = \frac{S_{xy}}{S_xS_y} \end{align}$</td>
-			<td>$\begin{align} \text{Mean Square}\\\text{error} \end{align}$</td>
+			<td>$\begin{align} &\text{Mean Square}\\ &\text{error} \end{align}$</td>
 			<td>$\begin{align} MSE = \frac{RSS}{n} = \frac{1}{n}\sum^n_{i=1}(y_i-\hat{y}_i)^2 \end{align}$</td>
 		</tr>
 		<tr>
-			<td>$\begin{align} \text{Coefficient of}\\ \text{determination} \end{align}$</td>
+			<td>$\begin{align} &\text{Coefficient of}\\ &\text{determination} \end{align}$</td>
 			<td>$\begin{align} R^2 = r^2_{xy} \end{align}$</td>
 			<td>$\begin{align} \text{Correlation} \end{align}$</td>
 			<td>$\begin{align} R^2 =& r^2_{xy}\approx 1: \text{very good fit} \\ R^2 =& r^2_{xy}\approx 0: \text{poor fit} \end{align}$</td>
