@@ -3,6 +3,11 @@
 $$
 \sum_{n=1}^{\infty} 2^{-n} = 1
 $$
+
+$$
+\bar{x} = \frac{1}{N} \sum^{N}_{i=1}{(x_i)}
+$$
+
 <div>
 <table border="1" class="dataframe">
 	<tbody>
